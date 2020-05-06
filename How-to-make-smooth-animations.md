@@ -1,7 +1,7 @@
 ﻿---
 date: 2020-05-06 18:26:22 +0200
 author: delnyn
-title: How to make "smooth animations" in Scratch
+title: How to make smooth animations in Scratch
 image: images/Smooth-Anim.png
 
 ---
