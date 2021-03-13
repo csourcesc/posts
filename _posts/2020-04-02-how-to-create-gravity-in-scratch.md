@@ -3,9 +3,16 @@ date: 2020-04-02 13:53:21 +0200
 author: Jimmyrooster
 title: How to create gravity in Scratch
 image: images/luis-cortes-martinez-G5WQNBpMrmI-unsplash.jpg
-
+excerpt: "Learn how to create simple gravity with a collision."
+categories: 
+  - Tutorials
+  - Tutorials/Physics
+tags:
+  - physics
+  - gravity
+  - platformer
+diffculty: Novice
 ---
-_Big thanks to_ [_Jimmyrooster_]() _for writing this article._
 
 ## Explanation
 
@@ -48,6 +55,8 @@ if <touching color [#b7ff03] ?> then
 else
   change (Y Velocity) by (-3)
 </pre>
+
+_Big thanks to_ [_Jimmyrooster_]() _for writing this article._
 
 ## The final code
 You can see the final code <a href="https://scratch.mit.edu/projects/382036051/">here</a>. Feel free to remix it or backpack it for use (but give credit).
