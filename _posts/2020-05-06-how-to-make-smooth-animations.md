@@ -1,11 +1,21 @@
-﻿---
+---
 date: 2020-05-06 18:26:22 +0200
 author: delnyn
 title: How to make smooth animations in Scratch
+excerpt: "Learn how to create smooth movement animation, that nicely transitions from one state to another."
 image: images/Smooth-Anim.png
-
+categories:
+  - Tutorials
+  - Tutorials/Polishing and Small Touches
+tags:
+  - smooth
+  - animation
+  - transition
+  - movement
+  - ui
+  - user interface
+difficulty: Easy
 ---
-_Article written by [delnyn](https://scratch.mit.edu/users/delnyn/)._
 
 ## Introduction
 In Scratch, the most common way to grow a sprite is using **change size**.
@@ -58,3 +68,5 @@ end
 </pre>
 Now have fun with that !  
 *Thank you for reading this article :3*
+
+_Article written by [delnyn](https://scratch.mit.edu/users/delnyn/)._
